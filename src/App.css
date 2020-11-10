@@ -1,0 +1,38 @@
+body{
+  background-image: url("https://wallpaperaccess.com/full/333537.jpg");
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  text-align: center;
+  min-height: 100vh;
+}
+
+h1{
+  margin: 0;
+  color:white;
+  text-shadow: 2px 2px black;
+  background-color: #cccccc;
+  font-weight: bold;
+  padding: 10px  10px 10px 10px;
+  margin-bottom: .5rem;
+}
+
+.input{
+  border: 5px solid white;
+  border-radius: .5em ;
+  padding: .25em;
+  width: 7em;
+
+
+}
+
+select{
+  margin: .5em;
+}
+
+.equals {
+  font-weight: bold;
+
+
+}
