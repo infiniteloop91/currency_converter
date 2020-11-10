@@ -1,5 +1,7 @@
 import React from 'react'
 
+// really super tutorial here:  https://www.youtube.com/watch?v=XN5elYWiSuw
+
 export default function CurrencyRow(props) {
   const {
     currencyOptions,
